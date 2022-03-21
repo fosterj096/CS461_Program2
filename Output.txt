@@ -1,0 +1,7 @@
+First 20 Totals - Value: 98.7, Weight: 242.9
+Total value: 1064.2
+Total weight: 2309.2
+Total items: 207
+
+Total attempts: 26207
+Successful changes: 25
